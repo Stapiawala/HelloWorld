@@ -2,8 +2,3 @@ Hello world!
 a second line
 a third line
 
-<<<<<<< HEAD 
-A local change.
-=======
-A remote change. 
->>>>>>> origin/master
